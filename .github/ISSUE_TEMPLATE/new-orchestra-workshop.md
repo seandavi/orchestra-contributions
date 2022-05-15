@@ -2,7 +2,7 @@
 name: New Orchestra Workshop
 about: Supply details for a new Orchestra workshop
 title: "[New Workshop]"
-labels: ''
+labels: "New workshop"
 assignees: seandavi
 
 ---
